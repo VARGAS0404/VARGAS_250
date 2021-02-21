@@ -19,15 +19,15 @@
     "whatsapp",
     "js-whatsapp"
   ],
-  "homepage": "https://github.com/VARGAS0404/VARGAS_250-BOT",
+  "homepage": "https://github.com/VARGAS0404/VARGAS_250",
   "author": {
     "name": "VARGAS_250"
   },
   "repository": {
-    "url": "https://github.com/VARGAS0404/VARGAS_250-BOT.git"
+    "url": "https://github.com/VARGAS0404/VARGAS_250.git"
   },
   "bugs": {
-    "url": "https://github.com/VARGAS0404/VARGAS_250-BOT/issues"
+    "url": "https://github.com/VARGAS0404/VARGAS_250/issues"
   },
   "license": "GPL-3.0",
   "dependencies": {
