@@ -26,7 +26,7 @@ Simple WhatsApp Bot
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php) (if nulis want work,  checklist columns 1,2,3,5,6) 
 ```bash
 > git clone https://github.com/VARGAS0404/VARGAS_250
-> cd wabot-aq
+> cd VARGAS_250
 > npm install
 ```
 ###### Run
@@ -35,5 +35,5 @@ Simple WhatsApp Bot
 ```
 --------------
 
-##### Powered By : [`XTEAM`](https://api.xteam.xyz) 
-##### Author / Creator : [`Nurutomo`](https://GitHub.com/Nurutomo) 
+##### Author / Creator : [`VARGAS`](https://GitHub.com/VARGAS0404) 
+
