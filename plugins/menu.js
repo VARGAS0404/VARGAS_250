@@ -88,7 +88,7 @@ let handler  = async (m, { conn, usedPrefix: _p }) => {
 │ Github:
 │ %github
 │ Group Bot:
-│ %groupbot
+│ https://chat.whatsapp.com/JRfrkRYovc1EqmY92B2Fgl
 ╰────
 %readmore`
     let header = conn.menu.header || '╭─「 %category 」'
