@@ -2,7 +2,7 @@
 Simple WhatsApp Bot
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm VARGAS_250
 <p align="center">
-<img src="https://raw.githubusercontent.com/A187ID/AR15BOT/main/aris/A187.jpg" width="230" height="230"/>
+<img src="5671077862ed29c8d6893a3dc1ce8fbf3c828a71" width="230" height="230"/>
 </p>
 <br>
 
