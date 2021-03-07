@@ -6,7 +6,7 @@ let handler = async(m, { conn, text }) => {
     var nomor = m.sender
     const teks1 = `*[ R E Q ]*\nNomor : wa.me/${nomor.split("@s.whatsapp.net")[0]}\nPesan : ${text}`
     conn.sendMessage('6281227560249@s.whatsapp.net', teks1, MessageType.text)
-    conn.fakeReply(m.chat, `Req Berhasil Terkirim Ke Owner`, '0@s.whatsapp.net', `*MIKU TERVERIFIKASI*`, 'status@broadcast')
+    conn.fakeReply(m.chat, `Req Berhasil Terkirim Ke Owner`, '0@s.whatsapp.net', `*NIKO TERVERIFIKASI*`, 'status@broadcast')
 }
 handler.help = ['req <pesan>', 'request <pasan>']
 handler.tags = ['info']
